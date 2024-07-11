@@ -10,3 +10,4 @@ ETH + AVAX PROOF: Intermediate EVM Course | Building on Avalanche - ETH + AVAX
 5. **Minting**: The contract owner can mint new tokens and distribute them to specific addresses.
 6. **Transferring**: Overrides the ERC-20 `transfer` function to add custom logic or features.
 7. **Burning**: Token holders can burn a specified amount of their tokens.
+![Screenshot 2024-07-11 152002](https://github.com/shubh387/eth_int4/assets/170728182/2bc164c9-57cd-412d-912c-0a98744ce98e)
