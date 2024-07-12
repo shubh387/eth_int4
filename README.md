@@ -87,6 +87,9 @@ The burnTokens function allows the sender to burn (destroy) a specified amount o
 The require statement checks whether the balance of the msg.sender (the caller of the function) is greater than or equal to _value. If the condition evaluates to false, meaning the sender does not have enough tokens, the function will revert with the error message "INSUFFICIENT TOKENS!!".
 The _burn function is called to burn (remove) the specified amount of tokens from the msg.sender.
 
+![Screenshot 2024-07-12 144136](https://github.com/user-attachments/assets/b6a73cea-b4ef-4d8a-abab-711828331de5)
+
+
 ## Authors
 
 Shubham Kumar
